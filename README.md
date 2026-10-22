@@ -10,7 +10,7 @@ A KGP Talkie course on finding structure in data with no labels: compressing it,
 | 4 | Clustering: k-means, hierarchical, DBSCAN, HDBSCAN, Gaussian mixtures, customer segments | MNIST, UCI Wholesale Customers |
 | 5 | Autoencoders with Keras 3, and semi-supervised learning with a few labels | Credit card fraud |
 | 6 | Time series clustering: shape-based distance, DTW, k-Shape | ECGFiveDays, ECG5000 |
-| 7 | Recommender systems: item similarity, implicit ALS, EASE, SASRec | MovieLens 1M |
+| 7 | Recommender systems with RecTools: popularity, item similarity, implicit ALS, EASE, SASRec | MovieLens 1M |
 | 8 | Clustering text with embeddings, UMAP, HDBSCAN, BERTopic and a local LLM | Banking77 |
 
 Each section has two files with the same name:
